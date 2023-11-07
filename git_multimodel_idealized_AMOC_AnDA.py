@@ -319,4 +319,3 @@ for j_obs in range(nb_param): # for each model used as pseudo-observations
     # res_AnDA_for_obs_j = AnDA_all_results_crossvalid[j_obs]
     # for elem in range(len(res_AnDA_for_obs_j)):
     #    savetxt(path_results+"/"+folder_obs_name+"/"+list_anda_outputs[elem]+".csv", res_AnDA_for_obs_j[elem], delimiter=';')      
-        

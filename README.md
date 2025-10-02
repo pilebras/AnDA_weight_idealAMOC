@@ -2,7 +2,7 @@
 
 
 # DESCRIPTION
-'AnDA_weight_idealAMOC' repository is associated to the following paper "Le Bras, P., Sévellec F., Tandeo P., Ruiz J., Ailliot P. (under review in NPG journal) "Selecting and weighting dynamical models using data-driven approaches".
+'AnDA_weight_idealAMOC' repository is associated to the following paper "Le Bras, P., Sévellec F., Tandeo P., Ruiz J., Ailliot P., 2024, "Selecting and weighting dynamical models using data-driven approaches".
 The purpose of this study is to select and weight an ensemble of perturbed versions of an idealised dynamical model (describing a simplified version of the Atlantic Meridonal Overturning Circulation) using data-driven data assimilation.
 
 The code for getting the figures in the paper is available in the ipython notebook "paper_figures_weighting_idealised_AMOC_model.ipynb". 
